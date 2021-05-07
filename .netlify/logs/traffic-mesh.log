@@ -1,0 +1,5 @@
+{"timestamp":"May 27 10:43:44.014","level":"INFO","fields":{"message":"edge handlers directory does not exist","directory":"edge-handlers"},"target":"traffic_mesh::bundle"}
+{"timestamp":"May 27 10:43:44.016","level":"INFO","fields":{"message":"starting watcher","dir":"/Users/sine.g/projects/netlify-cli-redirect-port-bug-repro"},"target":"traffic_mesh::watch"}
+{"timestamp":"May 27 10:43:44.020","level":"INFO","fields":{"message":"server initialized","address":"0.0.0.0:9090"},"target":"traffic_mesh::server"}
+{"timestamp":"May 27 10:43:47.190","level":"INFO","fields":{"message":"mapped remap found","request":"scheme: http, host: localhost, path: /, query: , fragment: ","remap":"type: Redirect, status: 301, scheme: https, host: www.example.com, path: , query: , fragment: "},"target":"traffic_mesh"}
+{"timestamp":"May 27 10:43:50.945","level":"INFO","fields":{"message":"server shutting down","with_err":false},"target":"traffic_mesh::server"}

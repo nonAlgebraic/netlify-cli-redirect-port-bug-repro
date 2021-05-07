@@ -1,0 +1,12 @@
+{
+  "name": "netlify-cli-redirect-port-bug-repro",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "start": "servor public"
+  },
+  "dependencies": {
+    "netlify-cli": "^3.31.11",
+    "servor": "^4.0.2"
+  }
+}
